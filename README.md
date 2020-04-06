@@ -13,5 +13,10 @@ Took about 45 minutes with whole setup and learning.
 - Send messages to topic from GCP Console
 - Things should appear :)
 
+## Limitations
+There is a hard limit of 10 000 subscriptions per topic and administrator operations (creating and deleting subscription) of 6,000 per minute (100 ops/s), but that isn't really a concern.
+
+https://cloud.google.com/pubsub/quotas
+
 ## Side notes
 I didn't use formatter, sorry.
