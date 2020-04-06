@@ -1,5 +1,5 @@
 {
-  "name": "sub-demo",
+  "name": "subscription-demo",
   "version": "1.0.0",
   "description": "Subscription demo using Google Pub/Sub and SSE",
   "main": "index.js",
